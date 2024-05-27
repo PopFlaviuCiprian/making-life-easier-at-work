@@ -1,4 +1,4 @@
-# Sallary calculator with GUI
+# Intervention calculator with GUI
 
 # Requirements for creating exe file:
 
